@@ -10,7 +10,7 @@ actual job:
 
 ### How to use
 
-If you have the data available in the current directory, run the follow:
+If you have the data and R script available in the current directory, run the follow:
 
 ```r
 source('./run_analysis.R')
