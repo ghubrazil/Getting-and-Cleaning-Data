@@ -15,6 +15,7 @@ If you have the data available in the current directory, run the follow:
 ```r
 source('./run_analysis.R')
 run.analysis() 
+```
 
 
 ### Additional Information
